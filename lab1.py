@@ -36,3 +36,4 @@ grades = {'Mark': 'A',
           'Jib': 'B'}
 
 print(grades['Mark']) # A
+print("Mark")
